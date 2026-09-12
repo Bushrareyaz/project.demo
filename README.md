@@ -1,3 +1,3 @@
 # project.demo
-This is the very first demo project.
+This is my very first Git repository
 
